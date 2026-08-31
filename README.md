@@ -17,5 +17,3 @@
         <img src="https://github-readme-stats.vercel.app/api?username=francojimenezcopati&include_all_commits=true&show_icons=true&theme=radical" height="250">
     </p>
 </footer>
-
-------
