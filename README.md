@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
 
 Last Edited on: 30/08/2026
